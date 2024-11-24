@@ -7,3 +7,8 @@
 	path = bykuzey/purchase-workflow
 	url = git@github.com:bykuzey/purchase-workflow.git
 	branch = 17.0
+
+[submodule "bykuzey/odoo"]
+	path = bykuzey/odoo
+	url = git@github.com:bykuzey/odoo.git
+	branch = 18.0
