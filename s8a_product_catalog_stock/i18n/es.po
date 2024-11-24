@@ -1,0 +1,25 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* s8a_product_catalog_stock
+# Samuel Ochoa <samuelochoap@gmail.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: s8a_product_catalog_stock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-26 20:15+0000\n"
+"PO-Revision-Date: 2024-02-26 16:20-0400\n"
+"Last-Translator: Samuel Ochoa <samuelochoap@gmail.com>\n"
+"Language-Team: Spanish; Castilian <sistemas@legalys.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Language: es\n"
+"X-Generator: Gtranslator 41.0\n"
+
+#. module: s8a_product_catalog_stock
+#: model:ir.actions.act_url,name:s8a_product_catalog_stock.product_catalog_action
+#: model:ir.ui.menu,name:s8a_product_catalog_stock.menu_product_catalog
+msgid "Product Catalog"
+msgstr "Catálogo de Productos"

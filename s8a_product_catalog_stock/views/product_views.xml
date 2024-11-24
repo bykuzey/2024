@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <record id="product_catalog_action" model="ir.actions.act_url">
+    <field name="name">Product Catalog</field>
+    <field name="url">/s8a/product_catalog</field>
+    <field name="target">self</field>
+  </record>
+
+  <menuitem
+    id="menu_product_catalog" name="Product Catalog" action="product_catalog_action"
+    parent="stock.menu_stock_inventory_control"
+  />
+</odoo>
