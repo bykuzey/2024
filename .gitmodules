@@ -7,3 +7,8 @@
 	path = bykuzey/purchase-workflow
 	url = git@github.com:bykuzey/purchase-workflow.git
 	branch = 17.0
+
+[submodule "odoo-turkey/l10n-turkey"]
+	path = odoo-turkey/l10n-turkey
+	url = git@github.com:odoo-turkey/l10n-turkey.git
+	branch = 16.0
